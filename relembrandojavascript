@@ -1,0 +1,13 @@
+function parimpar()
+{
+    var numero = prompt("Digite um numero")
+    if (numero % 2 == 0)
+    {
+        alert("Seu numero é par")
+    }
+    else
+    {
+        alert("Seu numero é impar")
+    }
+}
+parimpar()
